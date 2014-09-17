@@ -1,0 +1,91 @@
+
+body,html{
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+a{
+	font-family: 'Open Sans', sans-serif;
+	color:black;
+	padding:36px;
+	font-size: 24px;
+}
+
+.icons{
+	width:72px;
+	height:72px;
+	padding-top:24px;
+	padding-left:8px;
+	padding-right:8px;
+}
+
+.twitter-timeline{
+	float:right;
+	padding:15px;
+	padding-top:10%;
+}
+
+
+#links{
+	display: table;
+    margin: 0 auto;
+}
+
+#name{
+	position: fixed;
+    top: 0;
+    left: 0;
+    font-size: 36px;
+}
+
+#aboutme{
+	float:top;
+	font-size:24px;
+}
+
+
+#top{
+	width: 50%;
+    margin: 0 auto;
+    padding-top: 32px;
+
+}
+
+#pic{
+	float:left;
+	margin: 0 1em 1em 0;
+	width:215px;
+	height:250px;
+}
+
+#pic2{
+	float:right;
+	margin: 0 0 1em 1em;
+	width:30%;
+}
+
+#mid{
+	font-size: 18px;
+}
+
+#about{
+	padding-top:10%;
+	margin:auto;
+	width:50%;
+}
+
+#connect{
+	width: 50%;
+    margin: 0 auto;
+	font-size:24px;
+}
+
+#bottom{
+	margin: 0 auto;
+	width : 50%;
+}
